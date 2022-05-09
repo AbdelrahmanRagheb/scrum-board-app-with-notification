@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/add.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/alarm.xml" value="0.14322916666666666" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/arrow_back.xml" value="0.14322916666666666" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/black_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/black_rectangle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/blue_box.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/blue_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/card_borders.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/date.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/red_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/selected_blue_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/selected_red_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/selected_yellow_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/shadow_background.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/drawable/yellow_circle.xml" value="0.2703125" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout-v28/activity_add_task.xml" value="0.25025641025641027" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/activity_add_task.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/fragment_finished.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/fragment_stories.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/fragment_stories_finished.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/fragment_stories_in_progress.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/fragment_stories_not_started.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/layout/task.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/menu/my_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/menu/mymenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14322916666666666" />
+        <entry key="..\:/ScrumBoard/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
